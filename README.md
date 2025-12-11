@@ -1,0 +1,1 @@
+# Python-ile-Kullan-c-ad-ifre-Girme
